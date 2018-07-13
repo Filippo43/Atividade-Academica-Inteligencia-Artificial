@@ -9,3 +9,5 @@ O conjunto de dados está separado em treino (80%) e teste (20%), tal que no tre
 
 As seguintes métricas de classificação foram utilizadas: micro-f1, macro-f1 e acurácia. 
 
+O programa está em Python sendo utilizado em um Jupyter Notebook.
+
